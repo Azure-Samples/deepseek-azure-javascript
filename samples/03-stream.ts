@@ -13,5 +13,5 @@ const chunks = await openai.chat.completions.create({
 });
 
 for await (const chunk of chunks) {
-  process.stdout.write(chunk.choices[0].delta.content ?? "");
+  process.stdout.write(chunk.choices[0]?.delta.content ?? "");
 }

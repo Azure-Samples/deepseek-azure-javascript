@@ -2,30 +2,28 @@
 // providers.
 
 import process from "node:process";
-import 'dotenv/config';
+import "dotenv/config";
 
 // Configuration for using GitHub models
-const githubModelsConfig = {
+const GITHUB_MODELS_CONFIG = {
   baseURL: "https://models.inference.ai.azure.com",
   apiKey: process.env.GITHUB_TOKEN,
-  model: "DeepSeek-R1"
+  model: "DeepSeek-R1",
 };
 
 // Configuration for using Azure AI Foundry models
-export const azureConfig = {
+export const AZURE_AI_CONFIG = {
   baseURL: process.env.AZURE_AI_BASE_URL,
   apiKey: process.env.AZURE_AI_API_KEY,
-  model: process.env.AZURE_AI_DEPLOYMENT_NAME!
+  model: "DeepSeek-R1",
 };
 
 // Configuration for using Ollama models
-export const ollamaConfig = {
+export const OLLAMA_CONFIG = {
   baseURL: "http://localhost:11434",
   apiKey: "__not_needed__",
-  model: "deepseek-r1:7b"
+  model: "deepseek-r1:14b",
 };
 
 // Set the configuration to use with all the examples
-// export default githubModelsConfig;
-export default azureConfig;
-console.log(azureConfig);
+export default GITHUB_MODELS_CONFIG;
