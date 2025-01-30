@@ -28,9 +28,7 @@ the goal of this collection of samples is to demonstrate how to use it with Java
 > The DeepSeek-R1 model focus is on complex reasoning tasks, and it is not designed for general conversation.
 > This is also means that you may experience longer response times compared to other models, because it simulates a though process (englobed under the `<think>` tag) before providing an actual answer.
 
-## Usage
-
-## Getting started
+## Get started
 
 There are multiple ways to get started with this project.
 
@@ -156,6 +154,10 @@ Here are some additional resources to help you learn more and experiment with ge
 - [Generative AI with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) (GitHub): code samples and resources to learn Generative AI with JavaScript.
 - [Fundamentals of Responsible Generative AI](https://learn.microsoft.com/training/modules/responsible-generative-ai/) (Microsoft Learn): a training module to learn about the responsible use of generative AI.
 - [Build a serverless AI chat with RAG using LangChain.js](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-a-serverless-ai-chat-with-rag-using-langchain-js/ba-p/4111041) (GitHub): a next step code example to build an AI chatbot using Retrieval-Augmented Generation and LangChain.js.
+
+## Other DeepSeek-R1 samples
+
+- [DeepSeek-R1 on Azure with LangChain4j demo](https://github.com/Azure-Samples/DeepSeek-on-Azure-with-LangChain4j)
 
 ## Contributing
 
