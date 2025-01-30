@@ -1,0 +1,7 @@
+{
+  "code-runner.executorMap": {
+    "typescript": "tsx",
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.saveFileBeforeRun": true,
+}

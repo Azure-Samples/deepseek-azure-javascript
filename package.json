@@ -1,0 +1,42 @@
+{
+  "name": "deepseek-azure-javascript",
+  "version": "0.0.0",
+  "description": "Demonstrate how to use DeepSeek-R1 models GitHub Models, Azure or Ollama",
+  "private": true,
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sinedied/deepseek-azure-javascript"
+  },
+  "scripts": {},
+  "keywords": [
+    "github-models",
+    "azure",
+    "openai",
+    "langchain",
+    "generative ai",
+    "ai",
+    "samples",
+    "llm",
+    "deepseek"
+  ],
+  "author": {
+    "name": "Yohan Lasorsa",
+    "url": "https://github.com/sinedied"
+  },
+  "homepage": "https://github.com/sinedied/deepseek-azure-javascript",
+  "bugs": {
+    "url": "https://github.com/sinedied/deepseek-azure-javascript/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@langchain/openai": "^0.4.2",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.15",
+    "openai": "^4.52.7"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "npm": ">=10.0.0"
+  }
+}
