@@ -144,7 +144,7 @@ ollama pull deepseek-r1:8b
 
 Once the model is downloaded, open the `samples/config.ts` file and update the default export:
 
-```bash
+```ts
 export default OLLAMA_CONFIG;
 ```
 
