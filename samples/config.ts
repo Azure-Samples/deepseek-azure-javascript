@@ -20,7 +20,7 @@ export const AZURE_AI_CONFIG = {
 
 // Configuration for using Ollama models
 export const OLLAMA_CONFIG = {
-  baseURL: "http://localhost:11434",
+  baseURL: "http://localhost:11434/v1",
   apiKey: "__not_needed__",
   model: "deepseek-r1:14b",
 };
