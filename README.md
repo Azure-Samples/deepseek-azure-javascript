@@ -156,7 +156,7 @@ Here are some additional resources to help you learn more and experiment with ge
 - [Fundamentals of Responsible Generative AI](https://learn.microsoft.com/training/modules/responsible-generative-ai/) (Microsoft Learn): a training module to learn about the responsible use of generative AI.
 - [Build a serverless AI chat with RAG using LangChain.js](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/build-a-serverless-ai-chat-with-rag-using-langchain-js/ba-p/4111041) (GitHub): a next step code example to build an AI chatbot using Retrieval-Augmented Generation and LangChain.js.
 
-## Other DeepSeek-R1 samples
+## Related samples
 
 - [DeepSeek-R1 on Azure with LangChain4j demo](https://github.com/Azure-Samples/DeepSeek-on-Azure-with-LangChain4j)
 
