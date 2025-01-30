@@ -11,7 +11,7 @@
 
 ⭐ If you like this repo, star it on GitHub — it helps a lot!
 
-[Overview](#overview) • [Get started](#get-started) • [Run the samples](#run-the-samples) • [Next steps](#next-steps) • [Resources](#resources)
+[Overview](#overview) • [Get started](#get-started) • [Run the samples](#run-the-samples) • [Next steps](#next-steps) • [Related samples](#related-samples)
 
 </div>
 
