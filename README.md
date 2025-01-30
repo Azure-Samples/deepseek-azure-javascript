@@ -70,6 +70,7 @@ Then you can get the project code:
 
    ![Screenshot showing how to copy the repository URL](./docs/images/clone-url.png)
 3. Open a terminal and run this command to clone the repo: `git clone <your-repo-url>`
+4. Open the cloned project in your favorite IDE, then run this command in a terminal: `npm install`
 
 </details>
 
@@ -78,7 +79,7 @@ Then you can get the project code:
 In the [samples](./samples) folder of this repository, you'll find examples of how to use the DeepSeek-R1 models with different use cases and SDKs. You can run them by executing the following command in the terminal:
 
 ```bash
-tsx samples/<filename>
+npx tsx samples/<filename>
 ```
 
 Alternatively, you can open a sample file in the editor and run it directly by clicking the "Run" (▶️) button in the top right corner of the editor.
