@@ -27,3 +27,5 @@ export const OLLAMA_CONFIG = {
 
 // Set the configuration to use with all the examples
 export default GITHUB_MODELS_CONFIG;
+// export default AZURE_AI_CONFIG;
+// export default OLLAMA_CONFIG;
