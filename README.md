@@ -25,8 +25,8 @@ the goal of this collection of samples is to demonstrate how to use it with Java
 > You can run any of these demos right in your browser for free using [GitHub Codespaces](https://github.com/features/codespaces) and [GitHub Models](https://github.com/marketplace/models)! ✨
 
 > [!NOTE]
-> The DeepSeek-R1 model focus is on complex reasoning tasks, and it is not designed for general conversation.
-> This is also means that you may experience longer response times compared to other models, because it simulates a though process (englobed under the `<think>` tag) before providing an actual answer.
+> The DeepSeek-R1 model focus is on complex reasoning tasks, and it is not designed for general conversation. It is best suited for tasks that require a deep understanding of the context and a complex reasoning process to provide an answer, like the `samples/08-reasoning.ts` example.
+> This also means that you may experience longer response times compared to other models, because it simulates a though process (englobed under the `<think>` tag) before providing an actual answer.
 
 ## Get started
 
