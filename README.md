@@ -135,7 +135,7 @@ export default AZURE_AI_CONFIG;
 To use Ollama, you first need to use a [local dev environment](#use-your-local-environment) and install [Ollama](https://ollama.com/). Then, open a terminal and use the Ollama CLI to download the [DeepSeek-R1 model](https://ollama.com/library/deepseek-r1):
 
 ```bash
-ollama pull deepseek-r1:8b
+ollama pull deepseek-r1:14b
 ```
 
 > [!TIP]
