@@ -151,6 +151,7 @@ export default OLLAMA_CONFIG;
 ## Next steps
 
 Here are some additional resources to help you learn more and experiment with generative AI on Azure:
+- [How to use DeepSeek-R1 reasoning model](https://learn.microsoft.com/azure/ai-studio/how-to/deploy-models-deepseek?pivots=programming-language-javascript) (Microsoft Learn): a tutorial to learn how to use the DeepSeek-R1 reasoning model.
 - [Azure AI Foundry](https://ai.azure.com/) (Azure): a web portal to create, train, deploy and experiment with AI models.
 - [Generative AI with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) (GitHub): code samples and resources to learn Generative AI with JavaScript.
 - [Fundamentals of Responsible Generative AI](https://learn.microsoft.com/training/modules/responsible-generative-ai/) (Microsoft Learn): a training module to learn about the responsible use of generative AI.
