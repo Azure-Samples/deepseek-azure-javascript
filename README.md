@@ -32,7 +32,7 @@ the goal of this collection of samples is to demonstrate how to use it with Java
 
 There are multiple ways to get started with this project.
 
-The quickest way is to use [GitHub Codespaces](#use-github-codespaces) that provides a preconfigured environment for you. Alternatively, you can [set up your local environment](#use-your-local-environment) following the instructions below.
+The quickest way is to use [GitHub Codespaces](#use-github-codespaces) that provides a preconfigured environment for you, directly from your browser. Alternatively, you can [set up your local environment](#use-your-local-environment) following the instructions below.
 
 <details open>
 <summary><h3>Use GitHub Codespaces</h3></summary>
