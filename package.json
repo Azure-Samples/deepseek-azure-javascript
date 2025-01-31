@@ -33,6 +33,7 @@
     "@langchain/openai": "^0.4.2",
     "dotenv": "^16.4.7",
     "langchain": "^0.3.15",
+    "llamaindex": "^0.8.31",
     "openai": "^4.52.7"
   },
   "devDependencies": {
