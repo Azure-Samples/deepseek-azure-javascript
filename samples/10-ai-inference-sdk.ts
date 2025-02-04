@@ -9,6 +9,7 @@ const client = ModelClient(config.baseURL, new AzureKeyCredential(config.apiKey)
 const response = await client.path("/chat/completions").post({
   body: {
     messages: [{ role: "user", content: "Say hello in French" }],
+    model: config.model,
   },
 });
 
