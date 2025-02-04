@@ -19,7 +19,7 @@
 
 DeepSeek-R1 model has been announced on [GitHub Models](https://github.blog/changelog/2025-01-29-deepseek-r1-is-now-available-in-github-models-public-preview/)
 as well as on [Azure AI Foundry](https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/), and
-the goal of this collection of samples is to demonstrate how to use it with JavaScript/TypeScript, using either the [OpenAI Node.js SDK](https://github.com/openai/openai-node), [LangChain.js](https://js.langchain.com/) or [LlamaIndex.TS](https://ts.llamaindex.ai/).
+the goal of this collection of samples is to demonstrate how to use it with JavaScript/TypeScript, using either the [OpenAI Node.js SDK](https://github.com/openai/openai-node), [LangChain.js](https://js.langchain.com/), [LlamaIndex.TS](https://ts.llamaindex.ai/) or [Azure AI Inference SDK](https://www.npmjs.com/package/@azure-rest/ai-inference).
 
 > [!TIP]
 > You can run any of these demos right in your browser for free using [GitHub Codespaces](https://github.com/features/codespaces) and [GitHub Models](https://github.com/marketplace/models)! ✨
