@@ -1,6 +1,6 @@
 {
   "code-runner.executorMap": {
-    "typescript": "tsx",
+    "typescript": "npx tsx",
   },
   "code-runner.clearPreviousOutput": true,
   "code-runner.saveFileBeforeRun": true,
