@@ -159,6 +159,7 @@ Here are some additional resources to help you learn more and experiment with ge
 
 ## Related samples
 
+- [DeepSeek-R1 JavaScript starter](https://github.com/Azure-Samples/deepseek-js)
 - [DeepSeek-R1 on Azure with LangChain4j demo](https://github.com/Azure-Samples/DeepSeek-on-Azure-with-LangChain4j)
 
 ## Contributing
